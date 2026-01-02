@@ -1,0 +1,5 @@
+{
+  "name": "CargaSegura - Calculador de Peso para Camionetas",
+  "description": "Calculadora inteligente para gestionar la carga de tu vehículo. Permite sumar pesos de cajas específicas y obtener consejos de seguridad impulsados por IA.",
+  "requestFramePermissions": []
+}
